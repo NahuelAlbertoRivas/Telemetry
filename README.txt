@@ -1,0 +1,2 @@
+The current program requires a particular binary file (which contains the accurate information to be processed), which could not be uploaded to the repository
+since it exceeds 100MB, so for a correct demonstration of its operation such a resource in question should be requested.
